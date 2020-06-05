@@ -8,4 +8,4 @@
 
 # Oops.... Время решать задачки еще не пришло. Доступ откроется 6 июня в 16:00 (МСК)
 
-https://github.com/JUGRuGroupOnline/TechTrain2020
+[Ссылка на репозиторий с задачами](https://github.com/JUGRuGroupOnline/TechTrain2020)
