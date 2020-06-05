@@ -1,6 +1,6 @@
 # Задачи на фестивальчик TechTrain 2020
 
-![Coding_pic](https://github.com/JUGRuGroupOnline/TechTrain2020-landing/blob/master/coding.png)
+![Coding_pic](coding.png)
 
 На GitHub мы проведем конкурс для тех, кто хочет покодить. На нашей странице вы найдете восемь задач по количеству направлений в наших конференциях. После решения задачи нужно засабмитить ее в Pull Requests.
 
